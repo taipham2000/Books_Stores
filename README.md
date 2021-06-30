@@ -1,4 +1,4 @@
-### Welcome to Book_Stores
+### Welcome to Books_Stores
 
 ### You will find in this repo the following stuff: 
 * This repo has a basic project about Java-Web
