@@ -1,6 +1,5 @@
 ### Welcome to Books_Stores
 
-[![Books_Stores project | CI process included | © 2021 by taipham2000](https://github.com/taipham2000/math-util/actions/workflows/mathutil-ci-action.yml/badge.svg)](https://github.com/taipham2000/math-util/actions/workflows/mathutil-ci-action.yml)
 
 ### You will find in this repo the following stuff: 
 * This repo has a basic project about Java-Web
