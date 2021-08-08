@@ -10,4 +10,8 @@
 
 ## Have fun with my code and feel free to give me any comments
 
+### Connect me via:
+[Facebook](http://facebook.com/79TaiPham79)
+[Email](mailto: taitinpro@gmail.com)
+
 ####  © 2021 TaiPham
